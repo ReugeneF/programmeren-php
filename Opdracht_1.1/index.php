@@ -12,17 +12,11 @@
 </html>
 <?php
     echo "<h1> First <h1>";
-    echo "Test <br>";
+    echo "<p> Second <p>";
     ?>
 
 <?php
     $name = "Reugene Forst";
     echo "$name";
     ?>
-<body>
-    <?php
-    /* begroetingsregel tonen */
-        echo "hallo wereld";
-        ?>
-</body>
-    
+
